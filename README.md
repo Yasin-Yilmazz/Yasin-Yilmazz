@@ -35,8 +35,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erol1098&show_icons=true&theme=radical&locale=en&layout=compact" alt="erol1098" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasin-Yilmazz&show_icons=true&theme=radical&locale=en&layout=compact" alt="Yasin-Yilmazz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erol1098&show_icons=true&theme=dark&locale=en" alt="erol1098" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasin-Yilmazz&show_icons=true&theme=dark&locale=en" alt="Yasin-Yilmazz" width="50%" /></p>
 
-![](https://komarev.com/ghpvc/?username=erol1098) 
+![](https://komarev.com/ghpvc/?username=Yasin-Yilmazz) 

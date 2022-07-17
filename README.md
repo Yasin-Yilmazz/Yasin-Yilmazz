@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript. React is on the way.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
-- 💬 Ask me about **JavaScript, HTML, CSS and Python.**
+- 💬 Ask me about **JavaScript, HTML, CSS and ReactJs.**
 
 - 📫 How to reach me **yasinnyilmazz26@gmail.com**
 

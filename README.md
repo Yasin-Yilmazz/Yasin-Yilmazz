@@ -1,6 +1,6 @@
 - Hi, I’m @Yasin-Yilmazz. I have a Electrical Electronics Degree.
 - 👀 I’m aiming to be a Front-End Web Developer.
-- 🌱 I’m currently learning Javascript. React is on the way.
+- 🌱 I’m currently using Html-Css, JavaScript, Bootstrap, Scss, React.JS.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
 - 💬 Ask me about **JavaScript, HTML, CSS and ReactJs.**
